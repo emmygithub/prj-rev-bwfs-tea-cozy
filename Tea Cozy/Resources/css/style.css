@@ -1,0 +1,243 @@
+body{
+  background-color: black;
+}
+
+ul{
+  text-align: right;
+  align-items: center;
+  position: relative;
+  bottom: 100px;
+}
+a{
+  color: seashell;
+  font-size: 22px;
+  font-family: helvetica;
+  opacity: 0.9;
+}
+li{
+  display: inline-block;
+  text-decoration: underline;
+  padding: 20px;
+  align-items: right;
+  position: relative;
+  top:20px;
+  color: seashell;
+  text-align: center;
+}
+header{
+  top: 0;
+  left:0;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+}
+
+
+
+.header{
+border-bottom: 1px solid seashell;
+width: 100%;
+position: fixed;
+z-index: 10;
+height: 69px;
+display: inline;
+background-color: black;
+}
+.logo{
+  margin-left: 10px;
+  height: 50px;
+  margin-top: 10px;
+}
+.container p{
+  padding-left: 50px;
+  margin-left: 10px;
+}
+.main{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
+background-size: cover;
+position: relative;
+width: 1200px;
+margin: auto;
+top: 60px;
+height: 700px;
+background-position: center;
+}
+.container-main {
+  text-align: center;
+  background-color: black;
+  line-height: 7px;
+  position: relative;
+  top: 40%;
+  padding: 20px;
+
+}
+
+.container-man{
+  color: seashell;
+  font-size: 22px;
+  font-family: helvetica;
+  opacity: 0.9;
+}
+
+.second-into h2{
+  text-align: center;
+}
+.second-into{
+  text-align:center;
+  background-color: black;
+  display:block;
+  top: 80px;
+  position: relative;
+  color: seashell;
+  font-size: 22px;
+  font-family: helvetica;
+  opacity: 0.9;
+}
+
+.into-2{
+  color: blue;
+  padding-top: 90px;
+  display: inline-flex;
+}
+.into-2 h4{
+  text-align: auto;
+  color: seashell;
+  font-size: 22px;
+  font-family: helvetica;
+  opacity: 0.9;
+  margin-left: 10px;
+  padding-left: 50px;
+}
+}
+.pictures{
+  display: inline-block;
+  background-position: center;
+  width: 1000px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 40px;
+}
+.pic-1{
+  height: 200px;
+  width: 300px;
+  top:120px;
+  position: relative;
+background-size: cover;
+margin-left: 10px;
+justify-content: center;
+padding-left: 50px;
+
+}
+.pictures h4{
+  text-align:center;
+  margin-left: 10px;
+  padding-left: 90px;
+
+}
+.pictures-2{
+  display: inline-block;
+  padding-top: 10px;
+  width: 1000px;
+  top: 10px;
+}
+.pic-2{
+  height: 200px;
+  width: 300px;
+  top: 80px;
+  position: relative;
+background-size: cover;
+margin-left: 10px;
+padding-left: 50px;
+}
+.location{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+  background-size: cover;
+  position: relative;
+  width: 1200px;
+  margin: auto;
+  height: 500px;
+  background-position: center;
+  padding-top: 150px;
+  padding-bottom: 200px;
+  top: 80px;
+}
+.name{
+  color: seashell;
+  font-size: 22px;
+  font-family: helvetica;
+  opacity: 0.9;
+}
+.me h4{
+  justify-content: space-between;
+}
+.me-2 h4{
+  display: block;
+  justify-content: space-between;
+}
+.location-name{
+  justify-content: space-between;
+  opacity: 1;
+
+}
+.location-text{
+  position: relative;
+  text-align: center;
+  padding-top: 0.5px;
+  color: seashell;
+  font-size: 22px;
+  font-family: helvetica;
+  opacity: 0.9;
+  margin-bottom: 1px;
+}
+.me{
+  border: 1px solid black;
+  flex-direction: column;
+  display: inline-block;
+  text-align: center;
+  width: 300px;
+  margin: 40px;
+  background-color: black;
+}
+.me h3 h4{
+  display: inline-block;
+  justify-content: space-between;
+}
+.me-2{
+  border: 1px solid black;
+  flex-direction: column;
+  display: inline-block;
+  text-align: center;
+  width: 300px;
+  margin: 40px;
+  background-color: black;
+}
+.me-3{
+  border: 1px solid black;
+  flex-direction: column;
+  display: inline-block;
+  text-align: center;
+  width: 300px;
+  margin: 40px;
+  background-color: black;
+}
+
+.footer{
+  text-align: center;
+  padding-bottom: 40px;
+  color: seashell;
+  font-size: 22px;
+  font-family: helvetica;
+  opacity: 0.9;
+  position:relative;
+  top:90px;
+}
+
+
+.left{
+  color: seashell;
+  font-size: 22px;
+  font-family: helvetica;
+  opacity: 0.9;
+  margin-left: 20px;
+  padding-top: 20px;
+}
