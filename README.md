@@ -1,3 +1,3 @@
 # prj-rev-bwfs-tea-cozy
 
-The moment I started learning Css. It was fun
+Tea- Cozy a first Css rule I learnt.
