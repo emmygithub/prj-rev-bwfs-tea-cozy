@@ -1,3 +1,3 @@
 # prj-rev-bwfs-tea-cozy
 
-Updating my Css knowledge
+Tea and Cozy a project for Tea lovers like myself
