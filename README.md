@@ -1,3 +1,3 @@
 # prj-rev-bwfs-tea-cozy
 
-Cozzy Tea project.
+Handpicked, Artisanaly Curated, Free Range, Sustainable, Small batch, Fair trade, Orgainc tea
